@@ -1,6 +1,6 @@
 # CHALLENGE2 - WEEK2
 
-# Lists, strings and loops.
+## Lists, strings and loops.
 Write a function that takes a string and returns a tuple containing a new string made of all and only the vowels from the original string and the number of duplicates in the original string. Only the first instance of the
 vowel is considered.
 
